@@ -1,1 +1,1 @@
-# Rating-pediction
+# Rating-prediction
